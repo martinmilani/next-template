@@ -4,7 +4,7 @@
 
 # Command
 ```
-npx create-next-app my-next-app -e  https://github.com/martinmilani/next-template
+pnpm create next-app my-next-app -e  https://github.com/martinmilani/next-template
 ```
 
 ## What is included?
